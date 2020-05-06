@@ -1,3 +1,5 @@
+package Controller;
+
 public class AdminController extends MainController {
     @Override
     public void showMenu() {

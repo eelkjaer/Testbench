@@ -1,3 +1,5 @@
+package Controller;
+
 public abstract class MainController {
     abstract public void showMenu();
 
